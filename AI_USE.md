@@ -43,7 +43,7 @@ The following checks are pending documentation:
 - [x] Confirm that training and validation subjects do not overlap.
 - [x] Confirm that the random seed is 36.
 - [x] Confirm that models are fitted only on training data.
-- [] Confirm that test features and labels are not evaluated.
+- [ ] Confirm that test features and labels are not evaluated.
 - [ ] Compare the printed results with the saved output files.
 
 ### Changes Made Independently
