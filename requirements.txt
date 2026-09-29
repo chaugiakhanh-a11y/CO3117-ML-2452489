@@ -1,1 +1,2 @@
-# Add dependencies and versions when the environment is set up
+numpy==2.3.5
+scikit-learn==1.8.0
