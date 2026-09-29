@@ -46,8 +46,8 @@ It will not be used as an input feature.
 - Training and validation sets contain different subjects.
 - The original test set is reserved for the final evaluation.
 
-Training subject IDs: TODO
-Validation subject IDs: TODO
+Training subject IDs: 1, 3, 5, 7, 8, 11, 14, 15, 16, 21, 22, 25, 26, 27, 28, 30
+Validation subject IDs: 6, 17, 19, 23, 29
 
 The exact subject IDs and row indices are saved in:
 results/har_pipeline_seed36/split.json
