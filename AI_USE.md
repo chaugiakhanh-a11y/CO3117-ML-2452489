@@ -20,7 +20,7 @@ from 42 to 36 and provided instructions for running locally.
 
 ### Affected Files
 - [Pipeline code](src/har_pipeline.py)
-- [Dependencies](requirements-pipeline.txt)
+- [Dependencies](requirements.txt)
 - [Dataset documentation](data/README.md)
 
 ### First-Attempt Evidence
