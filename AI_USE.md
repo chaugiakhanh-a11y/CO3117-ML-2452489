@@ -39,11 +39,11 @@ Any genuine earlier attempt will be linked separately.
 ### Independent Verification
 The following checks are pending documentation:
 
-- [ ] Explain the roles of X, y, and subject IDs.
-- [ ] Confirm that training and validation subjects do not overlap.
-- [ ] Confirm that the random seed is 36.
-- [ ] Confirm that models are fitted only on training data.
-- [ ] Confirm that test features and labels are not evaluated.
+- [x] Explain the roles of X, y, and subject IDs.
+- [x] Confirm that training and validation subjects do not overlap.
+- [x] Confirm that the random seed is 36.
+- [x] Confirm that models are fitted only on training data.
+- [] Confirm that test features and labels are not evaluated.
 - [ ] Compare the printed results with the saved output files.
 
 ### Changes Made Independently
