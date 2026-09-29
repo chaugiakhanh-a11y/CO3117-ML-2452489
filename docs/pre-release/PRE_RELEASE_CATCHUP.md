@@ -81,7 +81,7 @@ Reference tree: ML-From-Scratch repository (https://github.com/eriklindernoren/M
 
 Baseline: Majority baseline Macro-F1 is 0.16.
 
-**Train/validation curve:** [Link to results/depth_graph.png](../../results/depth_graph.png)
+**Train/validation curve:** [Link to figures/depth_graph.png](../../../figures/depth_graph.png)
 
 **Diagnosis:** The evidence shows that at depth 12, the gap between training F1 (0.99) and validation F1 (0.84) is very large, which is a clear sign of overfitting. Depth 4 shows low F1 on both sets, indicating underfitting. Depth 7 achieves the best balance and the highest validation Macro-F1 (0.86), so I would select depth 7.
 
